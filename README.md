@@ -1,5 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm Rupa Veerala</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'am pursuing B.Tech in Computer Science with spl AI & ML from VIT-AP. A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupa-veerala&label=Profile%20views&color=0e75b6&style=flat" alt="rupa-veerala" /> </p>
