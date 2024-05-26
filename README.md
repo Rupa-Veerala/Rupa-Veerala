@@ -27,3 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupa-veerala&show_icons=true&locale=en" alt="rupa-veerala" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rupa-Veerala&" alt="Rupa-Veerala" /></p>
+
