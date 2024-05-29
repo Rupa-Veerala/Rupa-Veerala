@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **Frontend, Git & GitHub, Figma**
+- 💬 Ask me about **Frontend, Git & GitHub, Figma, Python**
 
 - 📫 How to reach me **veeralarupa@gmail.com**
 
