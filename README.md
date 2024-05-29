@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **veeralarupa@gmail.com**
 
-- ⚡ Fun fact **Nothing Be Slient**
+- ⚡ Fun fact **"Nothing Be Slient"**
   
 - 🚀 Feel free to explore my repositories and connect with me!
 
