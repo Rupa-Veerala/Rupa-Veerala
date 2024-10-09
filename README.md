@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **veeralarupa@gmail.com**
 
-- ⚡ Fun fact **"FANSTY" is better than "REALITY"**
+- ⚡ Fun fact **"Breaking code and setting records on the field!"**
   
 - 🚀 Feel free to explore my repositories and connect with me!
 
