@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupa-veerala&label=Profile%20views&color=0e75b6&style=flat" alt="rupa-veerala" /> </p>
 
-- 🔭 I’m currently working on **Context Image Based Captioning**
+- 🔭 I’m currently working on **Context-Based Image Captioning**
 
 - 🌱 I’m currently learning **Backend**
 
