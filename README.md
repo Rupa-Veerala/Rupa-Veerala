@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupa-veerala&label=Profile%20views&color=0e75b6&style=flat" alt="rupa-veerala" /> </p>
 
-- 🔭 I’m currently working on **E-Learning Management System**
+- 🔭 I’m currently working on **Context Image Based Captioning**
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **Frontend, Git & GitHub, Figma, Python**
+- 💬 Ask me about **Frontend, Git & GitHub, Figma, Python, Java**
 
 - 📫 How to reach me **veeralarupa@gmail.com**
 
-- ⚡ Fun fact **"Nothing Be Slient"**
+- ⚡ Fun fact **"FANSTY" is better than "REALITY"**
   
 - 🚀 Feel free to explore my repositories and connect with me!
 
