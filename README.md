@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **veeralarupa@gmail.com**
 
-- ⚡ Fun fact **"Breaking code and setting records on the field!"**
+- ⚡ Fun fact **"I think My life has no Fun"**
   
 - 🚀 Feel free to explore my repositories and connect with me!
 
