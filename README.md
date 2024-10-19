@@ -33,9 +33,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupa-veerala&" alt="rupa-veerala" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupa-veerala&show_icons=true&locale=en&layout=compact" alt="rupa-veerala" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupa-veerala&show_icons=true&locale=en" alt="rupa-veerala" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rupa-Veerala&" alt="Rupa-Veerala" /></p>
 
