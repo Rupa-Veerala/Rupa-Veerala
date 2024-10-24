@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupa-veerala" alt="rupa-veerala" /></a> </p>
 
-- 🔭 I’m currently working on **E-Learning Management System**
+- 🔭 I’m currently working on **Context-based Image Captioning**
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **Frontend, Git & GitHub**
+- 💬 Ask me about **Frontend, Git & GitHub, Java, Python**
 
 - 📫 How to reach me **veeralarupa@gmail.com**
 
