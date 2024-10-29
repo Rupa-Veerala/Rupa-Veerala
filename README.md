@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupa Veerala</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India and Lifelong Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupa-veerala&label=Profile%20views&color=0e75b6&style=flat" alt="rupa-veerala" /> </p>
 
