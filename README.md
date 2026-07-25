@@ -1,34 +1,210 @@
 <h1 align="center">Hi 👋, I'm Rupa Veerala</h1>
-<h3 align="center">A passionate frontend developer from India and Lifelong Learner</h3>
+<h3 align="center">Associate Software Developer | React.js | TypeScript | Frontend Developer | Aspiring Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rupa-veerala&label=Profile%20views&color=0e75b6&style=flat" alt="rupa-veerala" /> </p>
-
-- 🔭 I’m currently working on **SmartForecastVista**
-
-- 🌱 I’m currently learning **Backend**
-
-- 👯 I’m looking to collaborate on **Frontend Developments**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Rupa-Veerala](https://github.com/Rupa-Veerala)
-
-- 💬 Ask me about **Frontend, Git & GitHub, Java, Python etc..**
-
-- 📫 How to reach me **veeralarupa@gmail.com**
-
-- ⚡ Fun fact **'Fluent in code, caffeine-powered.'**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rupa957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rupa957" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rupa-veerala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupa-veerala" height="30" width="40" /></a>
-<a href="https://instagram.com/rupa_veerala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rupa_veerala" height="30" width="40" /></a>
+<p align="center">
+Passionate about building scalable, responsive web applications and creating impactful digital experiences. I enjoy solving real-world problems through clean code and continuously expanding my skills across frontend and backend technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Rupa-Veerala&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupa-veerala&show_icons=true&locale=en&layout=compact" alt="rupa-veerala" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupa-veerala&show_icons=true&locale=en" alt="rupa-veerala" /></p>
+## 👩‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupa-veerala&" alt="rupa-veerala" /></p>
+- 💼 Currently working as an **Associate Software Developer**
+- 🚀 Developing features for the **Brillius.ai** E-learning Platform
+- ⚛️ Specialized in **React.js**, **TypeScript**, and modern frontend development
+- 📄 Built **OCR Edit Module** and **Platform Admin** features for **LegalDesk**
+- 🧪 Designed and developed **MCP** and **AI-Augmented** hands-on learning labs
+- 🌱 Currently learning **Node.js**, **Express.js**, and Backend Development
+- 🤝 Open to collaborating on Frontend and Full Stack projects
+- 💬 Ask me about **React, TypeScript, JavaScript, Java, Python, Git & GitHub**
+- 📫 Reach me at **veeralarupa@gmail.com**
+- ⚡ Fun Fact: **Turning ideas into user-friendly applications is what excites me most.**
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/rupa-veerala" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+
+<a href="https://twitter.com/rupa957" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+</a>
+
+<a href="https://instagram.com/rupa_veerala" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+# 💼 Professional Experience & Projects
+
+## 🎓 Brillius.ai – AI-Powered E-Learning Platform
+
+**Role:** Associate Software Developer
+
+**Tech Stack:** React.js • TypeScript • Git • AWS S3
+
+### Responsibilities
+
+- Developed responsive and reusable UI components using React.js and TypeScript.
+- Built and enhanced multiple modules of the Brillius.ai learning platform.
+- Collaborated with cross-functional teams to deliver scalable frontend solutions.
+- Improved UI responsiveness and overall user experience.
+- Managed source code using Git and participated in collaborative development workflows.
+
+---
+
+## 🧪 MCP (Model Context Protocol) Labs
+
+Designed and developed interactive practical labs for MCP course modules.
+
+### Contributions
+
+- Designed **2 Demo Labs** and **1 User Lab**.
+- Built guided learning environments for creating and running MCP servers.
+- Created instructional demo videos.
+- Aligned practical labs with theoretical concepts for better learner experience.
+
+---
+
+## ⚙️ AI-Augmented Devops Labs
+
+Designed practical learning environments for AI-Augmented Devops training.
+
+### Contributions
+
+- Developed Demo Labs and User Labs.
+- Created guided workflows for real-world AIOps concepts.
+- Improved learner engagement through hands-on practical exercises.
+
+---
+
+## 📄 LegalDesk Platform
+
+**Role:** Frontend Developer
+
+**Tech Stack:** React.js • TypeScript • REST APIs
+
+### Contributions
+
+- Developed the **OCR Edit Module** allowing users to review and edit extracted OCR data.
+- Built and enhanced the **Platform Admin Dashboard**.
+- Integrated frontend with backend REST APIs.
+- Improved document management workflows.
+- Fixed UI bugs and optimized application performance.
+- Enhanced usability and responsiveness across admin pages.
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python" />
+</p>
+
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,azure" />
+</p>
+
+---
+
+# 🚀 Skills
+
+- React.js
+- TypeScript
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Bootstrap
+- Responsive Web Design
+- REST API Integration
+- Git & GitHub
+- AWS S3
+- OCR-based Document Processing
+- Admin Dashboard Development
+- MCP Labs Development
+- AIOps Labs Development
+- UI/UX Improvements
+- Frontend Performance Optimization
+- Backend Fundamentals (Node.js & Express.js)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rupa-Veerala&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupa-Veerala&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupa-Veerala&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupa-Veerala&theme=tokyo-night" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rupa-Veerala&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+</p>
+
+---
+
+# 📌 Current Focus
+
+- 🚀 Building scalable React applications
+- 🌱 Learning Backend Development (Node.js & Express.js)
+- 📚 Exploring Full Stack Development
+- ⚡ Improving System Design fundamentals
+- 🤖 Exploring AI-powered web applications
+
+---
+
+# 💡 Quote
+
+> **"Code with curiosity, build with purpose, and never stop learning."**
+
+---
+
+<p align="center">
+⭐ If you like my work, consider giving a star to my repositories!
+</p>
