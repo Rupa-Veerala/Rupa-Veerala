@@ -13,8 +13,8 @@ Passionate about building scalable, responsive web applications and creating imp
 
 ## 👩‍💻 About Me
 
-- 💼 Currently working as an **Associate Software Developer**
-- 🚀 Developing features for the **Brillius.ai** E-learning Platform
+- 💼 Currently working as an **Software Developer**
+- 🚀 Developing features for the **Brilliuslabs.ai** E-learning Platform
 - ⚛️ Specialized in **React.js**, **TypeScript**, and modern frontend development
 - 📄 Built **OCR Edit Module** and **Platform Admin** features for **LegalDesk**
 - 🧪 Designed and developed **MCP** and **AI-Augmented** hands-on learning labs
