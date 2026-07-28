@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupa Veerala</h1>
-<h3 align="center">Associate Software Developer | React.js | TypeScript | Frontend Developer | Aspiring Full Stack Developer</h3>
+<h3 align="center">Software Developer | React.js | TypeScript | Frontend Developer | Aspiring Full Stack Developer</h3>
 
 <p align="center">
 Passionate about building scalable, responsive web applications and creating impactful digital experiences. I enjoy solving real-world problems through clean code and continuously expanding my skills across frontend and backend technologies.
