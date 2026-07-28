@@ -160,35 +160,6 @@ Designed practical learning environments for AI-Augmented Devops training.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rupa-Veerala&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupa-Veerala&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupa-Veerala&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 GitHub Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rupa-Veerala&theme=tokyo-night" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rupa-Veerala&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-</p>
-
----
-
 # 📌 Current Focus
 
 - 🚀 Building scalable React applications
