@@ -48,7 +48,7 @@ Passionate about building scalable, responsive web applications and creating imp
 
 ## 🎓 Brillius.ai – AI-Powered E-Learning Platform
 
-**Role:** Associate Software Developer
+**Role:** Software Developer
 
 **Tech Stack:** React.js • TypeScript • Git • AWS S3
 
